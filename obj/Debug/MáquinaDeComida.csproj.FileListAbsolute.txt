@@ -1,0 +1,10 @@
+C:\Users\Public\Source\Repos\MáquinaDeComida\MáquinaDeComida\bin\Debug\MáquinaDeComida.exe.config
+C:\Users\Public\Source\Repos\MáquinaDeComida\MáquinaDeComida\bin\Debug\MáquinaDeComida.exe
+C:\Users\Public\Source\Repos\MáquinaDeComida\MáquinaDeComida\bin\Debug\MáquinaDeComida.pdb
+C:\Users\Public\Source\Repos\MáquinaDeComida\MáquinaDeComida\obj\Debug\MáquinaDeComida.csproj.AssemblyReference.cache
+C:\Users\Public\Source\Repos\MáquinaDeComida\MáquinaDeComida\obj\Debug\MáquinaDeComida.Form1.resources
+C:\Users\Public\Source\Repos\MáquinaDeComida\MáquinaDeComida\obj\Debug\MáquinaDeComida.Properties.Resources.resources
+C:\Users\Public\Source\Repos\MáquinaDeComida\MáquinaDeComida\obj\Debug\MáquinaDeComida.csproj.GenerateResource.cache
+C:\Users\Public\Source\Repos\MáquinaDeComida\MáquinaDeComida\obj\Debug\MáquinaDeComida.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source\Repos\MáquinaDeComida\MáquinaDeComida\obj\Debug\MáquinaDeComida.exe
+C:\Users\Public\Source\Repos\MáquinaDeComida\MáquinaDeComida\obj\Debug\MáquinaDeComida.pdb
